@@ -1,0 +1,15 @@
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\bin\Debug\net6.0\ASCII 256 rep.exe
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\bin\Debug\net6.0\ASCII 256 rep.deps.json
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\bin\Debug\net6.0\ASCII 256 rep.runtimeconfig.json
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\bin\Debug\net6.0\ASCII 256 rep.dll
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\bin\Debug\net6.0\ASCII 256 rep.pdb
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ASCII 256 rep.csproj.AssemblyReference.cache
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ASCII 256 rep.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ASCII 256 rep.AssemblyInfoInputs.cache
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ASCII 256 rep.AssemblyInfo.cs
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ASCII 256 rep.csproj.CoreCompileInputs.cache
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ASCII 256 rep.dll
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\refint\ASCII 256 rep.dll
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ASCII 256 rep.pdb
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ASCII 256 rep.genruntimeconfig.cache
+G:\My Drive\visual studio worksheets\ASCII 256 rep\ASCII 256 rep\obj\Debug\net6.0\ref\ASCII 256 rep.dll
